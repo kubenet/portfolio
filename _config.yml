@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+title: My Portfolio
+description: A showcase of my web development projects
